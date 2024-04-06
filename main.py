@@ -61,4 +61,3 @@ plt.ylabel('Loss')
 plt.legend()
 
 plt.savefig('image.png')
-# plt.show()
